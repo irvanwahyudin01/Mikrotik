@@ -1,0 +1,2 @@
+# Mikrotik
+konfigurasi mikrotik
